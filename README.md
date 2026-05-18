@@ -13,6 +13,8 @@ If everything looks good, flash OrangeFox permanently within menu. It should sho
 # Build Info:
 This build is made for Android 13, so approach cautiously or hit me up with a reply on xdaforums to request a custom build in case you're dabbling in custom ROMS (up to A16 supported).
 
+UPDATE: You can now build it yourself using the [Orange-Fox-Recovery-Build-Full-Guide](https://github.com/ruik3z/Orange-Fox-Recovery-Build-Full-Guide)!
+
 
 
 # I'm Not Responsible For:
