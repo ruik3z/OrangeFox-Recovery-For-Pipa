@@ -1,5 +1,5 @@
 # About Orange Fox Recovery:
-It's essentially a roided version of TWRP, be sure to run 'fastboot boot ofoxrecovery.img' during flash to test whether decryption, touch, and filesystem is in the clear :)
+It's essentially a roided version of TWRP, be sure to run 'fastboot boot RECOVERY-FILE.img' during flash to test whether decryption, touch, and filesystem is in the clear :)
 
 If everything looks good, be sure to flash OrangeFox within menu and have fun.
 
