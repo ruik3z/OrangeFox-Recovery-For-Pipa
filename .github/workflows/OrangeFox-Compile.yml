@@ -139,13 +139,14 @@ jobs:
     - name: Patching the Source Code For 12.1 Branch
       if: inputs.MANIFEST_BRANCH == '12.1'
       run: |
-        cd ${GITHUB_WORKSPACE}/OrangeFox/fox_${{ inputs.MANIFEST_BRANCH }}/bootable/recovery
-        git remote add ymdzq https://github.com/ymdzq/OrangeFox_Recovery && git fetch ymdzq fox_12.1 && git merge --no-ff ymdzq/fox_12.1 -m "Apply custom patches"
+       cd ${GITHUB_WORKSPACE}/OrangeFox/fox_${{ inputs.MANIFEST_BRANCH }}/bootable/recovery
+        echo "Bypassing conflicting upstream merge to prevent layout crash..."
         if [ "${{ inputs.ADD_WLAN_SUPPORT }}" = "true" ]; then
-        wget "https://github.com/ymdzq/OrangeFox_Recovery/commit/f8712872b9ec663b658a1e8eba4840877fe45ea6.patch" -O wlan.patch
-        git am wlan.patch
-        wget "https://github.com/ymdzq/OrangeFox_Recovery/commit/55743730c43681a777c4eacddd9d64a84dce3a54.patch" -O wlan2.patch
-        git am wlan2.patch
+          git remote add ymdzq https://github.com/ymdzq/OrangeFox_Recovery && git fetch ymdzq fox_12.1
+          wget "https://github.com/ymdzq/OrangeFox_Recovery/commit/f8712872b9ec663b658a1e8eba4840877fe45ea6.patch" -O wlan.patch
+          git am wlan.patch
+          wget "https://github.com/ymdzq/OrangeFox_Recovery/commit/55743730c43681a777c4eacddd9d64a84dce3a54.patch" -O wlan2.patch
+          git am wlan2.patch
         fi
 
     - name: Add WLAN support For 14.1 Branch
