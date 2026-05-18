@@ -1,17 +1,12 @@
-# OrangeFox Action Builder
-Compile your first custom recovery from OrangeFox Recovery using Github Action.
+# About Orange Fox Recovery:
+It's essentially a roided version of TWRP, be sure to run 'fastboot boot recovery-name.img' during flash to test whether decryption, touch, and filesystem is in the clear :)
 
-# How to Use
-1. Fork this repository.
+If everything looks good, be sure to flash OrangeFox within menu and have fun.
 
-2. Go to `Action` tab > `All workflows` > `OrangeFox - Build` > `Run workflow`, then fill all the required information:
- * MANIFEST_BRANCH (`12.1` and `14.1`)
- * DEVICE_TREE (Your device tree repository link.)
- * DEVICE_TREE_BRANCH (Your device tree repository branch.)
- * DEVICE_PATH (`device/vendor/codename`)
- * DEVICE_NAME (Your device codename)
- * BUILD_TARGET (`boot`, `recovery`, `vendorboot`)
+# Build Info:
+This build is made for Android 13, so be sure to use cautiously or hit me up with a reply on xdaforums requesting for a custom build.
 
- # Note
-* This action will now only support manifest 12.1 and 14.1, since all orangefox manifest below 12.1 are considered obsolete.
-* Make sure your tree uses right variable (updated vars) from OrangeFox; [fox_12.1](https://gitlab.com/OrangeFox/vendor/recovery/-/blob/fox_12.1/orangefox_build_vars.txt) and [fox_14.1](https://gitlab.com/OrangeFox/vendor/recovery/-/blob/fox_14.1/orangefox_build_vars.txt), to avoid build erros.
+# I'm Not Responsible For:
+Thermonuclear war, or whether you got fired because your alarm misbehaved. If you're gonna modify your device in any way, then be sure to understand that anything you do may come with the risk of a full software/hardware brick and/or future complications.
+
+Flash responsibly.
