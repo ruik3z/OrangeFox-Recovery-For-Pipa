@@ -1,4 +1,5 @@
-<img width="540" height="200" alt="OrangeFox" src="https://github.com/user-attachments/assets/09098f7d-497a-428d-94a3-d56502360aa6" />
+<img width="776" height="392" alt="51c19032-c5e7-457c-8dcd-abb173186409" src="https://github.com/user-attachments/assets/000c1d3f-419c-46b0-acd0-0f59559d5469" />
+
 
 # About Orange Fox Recovery:
 It's essentially a roided version of TWRP, be sure to run 'fastboot boot RECOVERY-FILE.img' during flash to test whether decryption, touch, and filesystem is all clear.
