@@ -19,22 +19,38 @@ Flashing & MTP: Seamless zip installation and computer to phone file transfers.
 USB-OTG: Storage expansion via external flash drives and mice.
 
 ## 🛡️ Root & Security Management
+
 Magisk & APatch: Native injection and management for root solutions.
+
 KernelSU Support: Built in modules manager for modern kernel level root.
+
 Passcode Reset: Special scripts to bypass forgotten lock screen pins.
+
 Recovery Lock: PIN or password protection to secure the recovery itself.
 
 ## 🔄 Automation & OTA Features
+
 ROM OTA Survival: Supports incremental, block based manufacturer updates.
+
 Auto-Recovery Injection: Prevents custom ROMs from overwriting OrangeFox.
+
 OpenRecoveryScript: Executes automated, multi file flashing sequences.
 
 ## 🎨 Interface & System Tools
+
 Material Design 2: Modern visual interface with gesture navigation.
+
 Hardware Controls: Button navigation backup if the touchscreen fails.
+
 Visual Themes: Native customization for fonts, colors, and splash screens.
+
 File Editor & Terminal: Built in tools to modify text files and run shell commands.
+
 Automated Logging: Compresses error logs into zip files for easy troubleshooting.
+
+# Releases
+
+## Download OrangeFox through [Releases](https://github.com/ruik3z/OrangeFox-Recovery-For-Pipa/releases)
 
 # General Advice
 Run 'fastboot boot RECOVERY-FILE.img' during flash to test whether decryption, touch, and filesystem is all clear.
@@ -50,5 +66,3 @@ UPDATE: You can now build it yourself using the [OrangeFox-Recovery-Full-Guide](
 Thermonuclear war, or whether you got fired because your alarm misbehaved. If you're gonna modify your device in any way, then be sure to understand that anything you do may come with the risk of a full software/hardware brick and/or future complications.
 
 Flash responsibly.
-
-Download OrangeFox through [Releases](https://github.com/ruik3z/OrangeFox-Recovery-For-Pipa/releases)
