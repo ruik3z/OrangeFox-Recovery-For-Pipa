@@ -5,7 +5,7 @@
 
 #### It's essentially a roided version of TWRP. 
 
-## ⚡ Main Recovery Operations
+## Main Recovery Operations
 
 ADB & Sideload: Full command line communication and remote zip flashing.
 
@@ -19,7 +19,7 @@ Flashing & MTP: Seamless zip installation and computer to phone file transfers.
 
 USB-OTG: Storage expansion via external flash drives and mice.
 
-## 🛡️ Root & Security Management
+## Root & Security Management
 
 Magisk & APatch: Native injection and management for root solutions.
 
@@ -29,7 +29,7 @@ Passcode Reset: Special scripts to bypass forgotten lock screen pins.
 
 Recovery Lock: PIN or password protection to secure the recovery itself.
 
-## 🔄 Automation & OTA Features
+## Automation & OTA Features
 
 ROM OTA Survival: Supports incremental, block based manufacturer updates.
 
@@ -37,7 +37,7 @@ Auto-Recovery Injection: Prevents custom ROMs from overwriting OrangeFox.
 
 OpenRecoveryScript: Executes automated, multi file flashing sequences.
 
-## 🎨 Interface & System Tools
+## Interface & System Tools
 
 Material Design 2: Modern visual interface with gesture navigation.
 
