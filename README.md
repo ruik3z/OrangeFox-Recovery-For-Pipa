@@ -3,9 +3,9 @@
 
 # About OrangeFox Recovery
 
-#### It's essentially a roided version of TWRP ~ Check [Releases](https://github.com/ruik3z/OrangeFox-Recovery-For-Pipa/releases)
+It's essentially a roided version of TWRP ~ Check [Releases](https://github.com/ruik3z/OrangeFox-Recovery-For-Pipa/releases)
 
-### Main Recovery Operations
+## Main Recovery Operations
 
 ADB & Sideload: Full command line communication and remote zip flashing.
 
@@ -19,7 +19,7 @@ Flashing & MTP: Seamless zip installation and computer to phone file transfers.
 
 USB-OTG: Storage expansion via external flash drives and mice.
 
-### Root & Security Management
+## Root & Security Management
 
 Magisk & APatch: Native injection and management for root solutions.
 
@@ -29,7 +29,7 @@ Passcode Reset: Special scripts to bypass forgotten lock screen pins.
 
 Recovery Lock: PIN or password protection to secure the recovery itself.
 
-### Automation & OTA Features
+## Automation & OTA Features
 
 ROM OTA Survival: Supports incremental, block based manufacturer updates.
 
@@ -37,7 +37,7 @@ Auto-Recovery Injection: Prevents custom ROMs from overwriting OrangeFox.
 
 OpenRecoveryScript: Executes automated, multi file flashing sequences.
 
-### Interface & System Tools
+## Interface & System Tools
 
 Material Design 2: Modern visual interface with gesture navigation.
 
@@ -51,7 +51,7 @@ Automated Logging: Compresses error logs into zip files for easy troubleshooting
 
 # Download It
 
-#### OrangeFox RECOVERY.img can be found in [Releases](https://github.com/ruik3z/OrangeFox-Recovery-For-Pipa/releases)
+OrangeFox RECOVERY.img can be found in [Releases](https://github.com/ruik3z/OrangeFox-Recovery-For-Pipa/releases)
 
 # General Advice
 Run 'fastboot boot RECOVERY-FILE.img' during flash to test whether decryption, touch, and filesystem is all clear.
@@ -66,4 +66,4 @@ UPDATE: You can now build it yourself using the [OrangeFox-Recovery-Full-Guide](
 # I'm Not Responsible For
 Thermonuclear war, or whether you got fired because your alarm misbehaved. If you're gonna modify your device in any way, then be sure to understand that anything you do may come with the risk of a full software/hardware brick and/or future complications.
 
-#### Flash responsibly.
+Flash responsibly.
