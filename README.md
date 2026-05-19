@@ -5,7 +5,7 @@
 
 #### It's essentially a roided version of TWRP. 
 
-## ⚡ Core Recovery Operations
+## ⚡ Main Recovery Operations
 
 ADB & Sideload: Full command line communication and remote zip flashing.
 
@@ -66,4 +66,4 @@ UPDATE: You can now build it yourself using the [OrangeFox-Recovery-Full-Guide](
 # I'm Not Responsible For
 Thermonuclear war, or whether you got fired because your alarm misbehaved. If you're gonna modify your device in any way, then be sure to understand that anything you do may come with the risk of a full software/hardware brick and/or future complications.
 
-Flash responsibly.
+#### Flash responsibly.
