@@ -5,11 +5,17 @@
 It's essentially a roided version of TWRP. 
 
 ## ⚡ Core Recovery Operations
+
 ADB & Sideload: Full command line communication and remote zip flashing.
+
 Decryption: Built in support to read encrypted data partitions.
+
 Display & Touch: Fully operational UI with display driver support.
+
 Fastbootd: User space fastboot mode for advanced partition flashing.
+
 Flashing & MTP: Seamless zip installation and computer to phone file transfers.
+
 USB-OTG: Storage expansion via external flash drives and mice.
 
 ## 🛡️ Root & Security Management
