@@ -15,3 +15,5 @@ UPDATE: You can now build it yourself using the [OrangeFox-Recovery-Full-Guide](
 Thermonuclear war, or whether you got fired because your alarm misbehaved. If you're gonna modify your device in any way, then be sure to understand that anything you do may come with the risk of a full software/hardware brick and/or future complications.
 
 Flash responsibly.
+
+Download OrangeFox through [Releases](https://github.com/ruik3z/OrangeFox-Recovery-For-Pipa/releases)
