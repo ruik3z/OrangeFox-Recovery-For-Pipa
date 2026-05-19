@@ -50,7 +50,7 @@ Automated Logging: Compresses error logs into zip files for easy troubleshooting
 
 # Releases
 
-## Download OrangeFox through [Releases](https://github.com/ruik3z/OrangeFox-Recovery-For-Pipa/releases)
+#### Download OrangeFox through [Releases](https://github.com/ruik3z/OrangeFox-Recovery-For-Pipa/releases)
 
 # General Advice
 Run 'fastboot boot RECOVERY-FILE.img' during flash to test whether decryption, touch, and filesystem is all clear.
