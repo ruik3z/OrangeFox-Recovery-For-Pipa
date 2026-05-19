@@ -3,7 +3,7 @@
 
 # About OrangeFox Recovery
 
-#### It's essentially a roided version of TWRP. Check [Releases](https://github.com/ruik3z/OrangeFox-Recovery-For-Pipa/releases)
+#### It's essentially a roided version of TWRP. Check [Releases](https://github.com/ruik3z/OrangeFox-Recovery-For-Pipa/releases).
 
 ### Main Recovery Operations
 
