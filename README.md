@@ -2,7 +2,8 @@
 
 
 # About OrangeFox Recovery
-It's essentially a roided version of TWRP. 
+
+#### It's essentially a roided version of TWRP. 
 
 ## ⚡ Core Recovery Operations
 
