@@ -1,5 +1,6 @@
 <img width="776" height="392" alt="51c19032-c5e7-457c-8dcd-abb173186409" src="https://github.com/user-attachments/assets/000c1d3f-419c-46b0-acd0-0f59559d5469" />
 
+### FULL CREDITS GO TO PipaDB and ymdzq
 
 # About OrangeFox Recovery
 
